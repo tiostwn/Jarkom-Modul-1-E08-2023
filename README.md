@@ -32,21 +32,37 @@ Sehingga, dapat kita ketahui bahwa:
   
 ## Soal 2
 Sebutkan web server yang digunakan pada portal praktikum Jaringan Komputer!
-## Penyelesaian Soal 2
 
+## Penyelesaian Soal 2
+- Filter menggunakan `http contains "10.21.78.111"`
+- Pilih salah satu paket
+- Klik kanan pada paket tersebut
+- Pilih follow -> TCP STREAM
+- Pilih follow -> TCP STREAM
+- <img width="1512" alt="image" src="https://github.com/tiostwn/Jarkom-Modul-1-E08-2023/assets/53292102/9d58f338-1dda-4ad0-9a7b-e093d84cf712">
 
 
 ## Soal 3
 Dapin sedang belajar analisis jaringan. Bantulah Dapin untuk mengerjakan soal berikut:
-Berapa banyak paket yang tercapture dengan IP source maupun destination address adalah 239.255.255.250 dengan port 3702?
-Protokol layer transport apa yang digunakan?
+1. Berapa banyak paket yang tercapture dengan IP source maupun destination address adalah 239.255.255.250 dengan port 3702?
+2. Protokol layer transport apa yang digunakan?
+
 ## Penyelesaian Soal 3
+- Filter menggunakan
+```R
+ip.addr == 239.255.255.250 && udp.port == 3702
+```
+
+- Bisa dilihat ada sebanyak 21 paket
+<img width="1512" alt="image" src="https://github.com/tiostwn/Jarkom-Modul-1-E08-2023/assets/53292102/d3223e04-7391-4fdb-950f-4084ae922f4d">
 
 
 
 ## Soal 4
 Berapa nilai checksum yang didapat dari header pada paket nomor 130?
+
 ## Penyelesaian Soal 4
+<img width="1512" alt="image" src="https://github.com/tiostwn/Jarkom-Modul-1-E08-2023/assets/53292102/afe08da9-f7ac-4af6-8cef-6e3868a61d02">
 
 
 
