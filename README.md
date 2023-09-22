@@ -119,4 +119,5 @@ Sebutkan kredensial yang benar ketika user mencoba login menggunakan Telnet
 - ![Screenshot 2023-09-22 174256](https://github.com/tiostwn/Jarkom-Modul-1-E08-2023/assets/100474007/17a7059a-65db-49cc-9f59-ac4f5472d15d)
 - ``TCP Stream`` untuk melihat isi dari packet. Kemudain akan muncul Login & Password yang di cari.
 - ![Screenshot 2023-09-22 174334](https://github.com/tiostwn/Jarkom-Modul-1-E08-2023/assets/100474007/036a59b2-3d06-4097-8824-d390ca6c19bc)
+- Dari gambar diatas kita tahu bahwa kredensial yang bernar untuk login adalah ``dhafin:kesayangank0k0``.
 
