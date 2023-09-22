@@ -70,8 +70,8 @@ Seorang anak bernama Udin Berteman dengan SlameT yang merupakan seorang penggema
 Berapa jumlah packet yang menuju IP 184.87.193.88?
 ## Penyelesaian Soal 7
 - Pada layar Display Filter ketikan ``ip.dst == 184.87.193.88`` dan Enter.
-- kemudian muncul paket-paket yang berasal dari alamat ``ip.dst == 184.87.193.88``.
-  
+- kemudian muncul paket-paket yang berasal dari alamat ``184.87.193.88``.
+- 
 
 
 
