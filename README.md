@@ -65,13 +65,20 @@ Berapa nilai checksum yang didapat dari header pada paket nomor 130?
 <img width="1512" alt="image" src="https://github.com/tiostwn/Jarkom-Modul-1-E08-2023/assets/53292102/afe08da9-f7ac-4af6-8cef-6e3868a61d02">
 
 
-
 ## Soal 5
 Elshe menemukan suatu file packet capture yang menarik. Bantulah Elshe untuk menganalisis file packet capture tersebut.
-Berapa banyak packet yang berhasil di capture dari file pcap tersebut?
-Port berapakah pada server yang digunakan untuk service SMTP?
-Dari semua alamat IP yang tercapture, IP berapakah yang merupakan public IP?
+- Berapa banyak packet yang berhasil di capture dari file pcap tersebut?
+- Port berapakah pada server yang digunakan untuk service SMTP?
+- Dari semua alamat IP yang tercapture, IP berapakah yang merupakan public IP?
+  
 ## Penyelesaian Soal 5
+- Jumlah packet yang berhasil di capture adalah `60 packet`
+<img width="562" alt="image" src="https://github.com/tiostwn/Jarkom-Modul-1-E08-2023/assets/53292102/93eb4dfb-b499-4225-9a0e-85b99d38cf28">
+
+- Port server yang digunakan untuk service SMTP adalah `25`
+<img width="1512" alt="image" src="https://github.com/tiostwn/Jarkom-Modul-1-E08-2023/assets/53292102/bfd76801-2182-4411-90e1-4694a1a65ff3">
+
+- IP yang merupakan public IP adalah `74.53.140.153`
 
 
 
