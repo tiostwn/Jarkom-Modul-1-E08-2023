@@ -86,7 +86,8 @@ Berikan kueri filter sehingga wireshark hanya mengambil semua protokol paket yan
 ## Soal 9
 Berikan kueri filter sehingga wireshark hanya mengambil paket yang berasal dari alamat 10.51.40.1 tetapi tidak menuju ke alamat 10.39.55.34!
 ## Penyelesaian Soal 9
-
+-
+-
 
 
 ## Soal 10
