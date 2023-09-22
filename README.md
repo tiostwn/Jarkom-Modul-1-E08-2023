@@ -96,4 +96,5 @@ Berikan kueri filter sehingga wireshark hanya mengambil paket yang berasal dari 
 Sebutkan kredensial yang benar ketika user mencoba login menggunakan Telnet
 ## Penyelesaian Soal 10
 - Pada layar Display Filter ketikan ``telnet`` dan Enter, untuk filter packet - paket yang menuju telnet.
-- 
+- ![Screenshot 2023-09-22 173125](https://github.com/tiostwn/Jarkom-Modul-1-E08-2023/assets/100474007/61bfbe5b-ab47-4176-8781-d12d5389dca3)
+
