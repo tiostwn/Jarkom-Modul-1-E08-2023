@@ -96,14 +96,20 @@ Berapa jumlah packet yang menuju IP 184.87.193.88?
 ## Saol 8
 Berikan kueri filter sehingga wireshark hanya mengambil semua protokol paket yang menuju port 80! (Jika terdapat lebih dari 1 port, maka urutkan sesuai dengan abjad)
 ## Penyelesaian Soal 8
-- Filter menggunakan ``tcp.dstport == 80 || udp.dstport == 80``
+- Filter menggunakan
+-  ```R
+   tcp.dstport == 80 || udp.dstport == 80
+  ```
 
 
 
 ## Soal 9
 Berikan kueri filter sehingga wireshark hanya mengambil paket yang berasal dari alamat 10.51.40.1 tetapi tidak menuju ke alamat 10.39.55.34!
 ## Penyelesaian Soal 9
-- Pada layar Display Filter ketikan ``ip.src == 10.51.40.1 && ip.dst != 10.39.55.34`` dan Enter.
+- Pada layar Display Filter ketikan dan Enter.
+```R
+ip.src == 10.51.40.1 && ip.dst != 10.39.55.34
+```
 - Filter diatas hanya mengambil paket dari alamat ``10.51.40.11`` dan tidak menuju ke alamat ``10.39.55.34``
 - ![no 9](https://github.com/tiostwn/Jarkom-Modul-1-E08-2023/assets/100474007/7b4d1dcb-e0a1-46ad-9b25-474a3b085d27)
 
