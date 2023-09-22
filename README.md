@@ -86,4 +86,4 @@ Berikan kueri filter sehingga wireshark hanya mengambil paket yang berasal dari 
 
 ## Soal 10
 Sebutkan kredensial yang benar ketika user mencoba login menggunakan Telnet
-## Penyelesaian Soal 1
+## Penyelesaian Soal 10
